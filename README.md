@@ -2,8 +2,7 @@
 MediaPipeのIris(虹彩検出)をPythonで動作させるデモです。<br>
 MediaPipeのFace Meshで顔のランドマークを検出し「[iris_landmark.tflite](https://github.com/google/mediapipe/blob/master/mediapipe/modules/iris_landmark/iris_landmark.tflite)」を用いて虹彩の検出をしています。<br>
 
-![suwkm-avmbx](https://user-images.githubusercontent.com/37477845/101514487-a59d8500-39c0-11eb-8346-d3c9ab917ea6.gif)
-
+![8p6lo-slci5](https://user-images.githubusercontent.com/37477845/107108796-11e01c00-687e-11eb-8d82-9ffcdaad2610.gif)
 # Requirement 
 * mediapipe 0.8.1 or later
 * OpenCV 3.4.2 or later
