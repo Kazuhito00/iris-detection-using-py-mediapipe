@@ -1,1 +1,1 @@
-# iris-detection-using-mediapipe
+# iris-detection-using-py-mediapipe
