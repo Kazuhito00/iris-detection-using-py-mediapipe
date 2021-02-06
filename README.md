@@ -6,6 +6,7 @@ MediaPipeのFace Meshで顔のランドマークを検出し「[iris_landmark.tf
 # Requirement 
 * mediapipe 0.8.1 or later
 * OpenCV 3.4.2 or later
+* Tensorflow 2.3.0 or Later
 
 mediapipeはpipでインストールできます。
 ```bash
