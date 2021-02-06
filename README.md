@@ -1,8 +1,9 @@
 # iris-detection-using-py-mediapipe
-[MediaPipe](https://github.com/google/mediapipe)のPythonパッケージのサンプルです。<br>
-2020/12/11時点でPython実装のある以下4機能について用意しています。
-* [Hands](https://google.github.io/mediapipe/solutions/hands)<br>
-![suwkm-avmbx](https://user-images.githubusercontent.com/37477845/101514487-a59d8500-39c0-11eb-8346-d3c9ab917ea6.gif)<br>
+MediaPipeのIris(虹彩検出)をPythonで動作させるデモです。<br>
+MediaPipeのFace Meshで顔のランドマークを検出した後に、「[iris_landmark.tflite](https://github.com/google/mediapipe/blob/master/mediapipe/modules/iris_landmark/iris_landmark.tflite)」を用いて虹彩の検出をしています。<br>
+
+![suwkm-avmbx](https://user-images.githubusercontent.com/37477845/101514487-a59d8500-39c0-11eb-8346-d3c9ab917ea6.gif)
+
 # Requirement 
 * mediapipe 0.8.1 or later
 * OpenCV 3.4.2 or later
