@@ -39,7 +39,15 @@ python demo.py
 デフォルト：0.7
 
 # ToDo
-- [ ] 焦点距離から深度を推定する
+- [ ] 焦点距離から深度を推定するオプションを追加
 
 # Reference
 * [MediaPipe](https://github.com/google/mediapipe)
+
+# Author
+高橋かずひと(https://twitter.com/KzhtTkhs)
+ 
+# License 
+mediapipe-python-sample is under [Apache-2.0 License](LICENSE).
+
+また、女性の画像は[フリー素材ぱくたそ](https://www.pakutaso.com)様の写真を利用しています。
