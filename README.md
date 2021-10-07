@@ -1,3 +1,8 @@
+# ⚠Attention⚠
+MediaPipe 0.8.8 からFaceMeshにrefine_landmarksオプションが追加されました。<br>
+このオプションを有効化すると虹彩の検出も同時に実施できるようになります。<br>
+特別な理由がない限り、[Kazuhito00/mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)のFaceMeshを参考にすることをお勧めします。
+
 # iris-detection-using-py-mediapipe
 MediaPipeのIris(虹彩検出)をPythonで動作させるデモです。<br>
 MediaPipeのFace Meshで顔のランドマークを検出し「[iris_landmark.tflite](https://github.com/google/mediapipe/blob/master/mediapipe/modules/iris_landmark/iris_landmark.tflite)」を用いて虹彩の検出をしています。<br>
